@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3421078548
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shadervariantsprefab
+      Dependencies:
+        Dependency_0: shadervariantsshader
+    Info_1:
+      Name: shadervariantsshader
+      Dependencies: {}
